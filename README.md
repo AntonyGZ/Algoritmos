@@ -17,7 +17,7 @@
 🔹 C++  
 🔹 Java  
 
-## 🛠️ ¿Cómo usar este repositorio?  
+##🛠️ ¿Cómo usar este repositorio?
 1. **Clona el repositorio** en tu computadora:  
    ```bash
    git clone https://github.com/TU-USUARIO/algoritmos.git
@@ -26,6 +26,6 @@
 
 ## 📢 Contribuciones
 ¿Conoces otros algoritmos? ¡Agrégalos al repositorio!
-1.	** Haz un Fork del repositorio. **
-2.	** Agrega nuevos algoritmos y ejemplos.**
-3.	**Crea un Pull Request con la explicación de tu contribución.**
+1. **Haz un Fork del repositorio.**
+2. **Agrega nuevos algoritmos y ejemplos.**
+3. **Crea un Pull Request con la explicación de tu contribución.**
